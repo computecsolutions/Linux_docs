@@ -1,0 +1,1 @@
+This is a group of info pages for installing and configuring linux and linux apps
